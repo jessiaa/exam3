@@ -1,0 +1,41 @@
+module.exports = [{
+    startTime: "07:00",
+    endTime: "11:40",
+    allTime: "4时40分",
+    price: "558",
+    startAddress: "北京南",
+    endAddress: "上海",
+    ersit: "(有票)",
+    yisit: "(有票)",
+    shangwu: "无"
+}, {
+    startTime: "07:20",
+    endTime: "13:08",
+    allTime: "5时48分",
+    price: "553",
+    startAddress: "北京南",
+    endAddress: "上海虹桥",
+    ersit: "(有票)",
+    yisit: "7",
+    shangwu: "5"
+}, {
+    startTime: "07:50",
+    endTime: "13:12",
+    allTime: "5时22分",
+    price: "553",
+    startAddress: "北京南",
+    endAddress: "上海虹桥",
+    ersit: "(有票)",
+    yisit: "(有票)",
+    shangwu: "14"
+}, {
+    startTime: "08:05",
+    endTime: "13:46",
+    allTime: "5时41分",
+    price: "553",
+    startAddress: "北京南",
+    endAddress: "上海虹桥",
+    ersit: "(有票)",
+    yisit: "(有票)",
+    shangwu: "12"
+}]
